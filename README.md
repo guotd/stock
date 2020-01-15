@@ -16,8 +16,8 @@ Dependencies
 =========
 python 2.x/3.x   
 
-[pandas](http://pandas.pydata.org/ "pandas")
-[tushare](https://github.com/waditu/tushare)
-[yfinance](https://github.com/ranaroussi/yfinance)
+1. [pandas](http://pandas.pydata.org/ "pandas")
+2. [tushare](https://github.com/waditu/tushare)
+3. [yfinance](https://github.com/ranaroussi/yfinance)
 
 
